@@ -1,2 +1,2 @@
-# catfacts
-Cat facts delivered daily.
+# jokes
+Get your jokes here.
